@@ -1,0 +1,27 @@
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\MetaGuard for MelonLoader.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\MetaGuard for MelonLoader.pdb
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\MelonLoader.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\0Harmony.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\MonoMod.Utils.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Mono.Cecil.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\AssetsTools.NET.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Tomlet.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Iced.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\bin\Debug\MelonLoader.xml
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\obj\Debug\MetaGuard for MelonLoader.csproj.AssemblyReference.cache
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\obj\Debug\MetaGuard for MelonLoader.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\obj\Debug\MetaGuard for MelonLoader.csproj.CopyComplete
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\obj\Debug\MetaGuard for MelonLoader.dll
+C:\Users\Vivek\source\repos\MetaGuardMelonLoader\MetaGuard for MelonLoader\MetaGuard for MelonLoader\obj\Debug\MetaGuard for MelonLoader.pdb
